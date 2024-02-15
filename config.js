@@ -32,16 +32,16 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 const readMore = more.repeat(4001)
 
 /*============= MAIN INFO =============*/
-global.owner = [['6285174269046', 'ShirokamiRyzen', true]]
+global.owner = [['6281617945484', 'ShirokamiRyzen', true]]
 global.mods = []
 global.prems = []
-global.nomorbot = '6285864034767'
-global.nomorown = '6285174269046'
+global.nomorbot = '6283890107168'
+global.nomorown = '6281617945484'
 
 /*============= WATERMARK =============*/
 global.readMore = readMore
-global.author = 'Shirokami Ryzen'
-global.namebot = 'Nao-MD ESM'
+global.author = 'EchanGans'
+global.namebot = 'ECHAN⚡'
 global.wm = '© Nao-MD By Shirokami Ryzen'
 global.watermark = wm
 global.botdate = `⫹⫺ DATE: ${week} ${date}\n⫹⫺ 𝗧𝗶𝗺𝗲: ${wktuwib}`
